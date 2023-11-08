@@ -36,7 +36,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags:
   - SLAM
   - Rolling Shutter
-featured: false
+featured: true
 
 # links:
 # - name: ""
