@@ -1,5 +1,5 @@
 ---
-title: 'Fast Rolling Shutter Correction in the Wild. IEEE Transactions on Pattern Analysis and Machine Intelligence '
+title: 'Fast Rolling Shutter Correction in the Wild'
 authors:
   - dl.qu
   - yf.xue
