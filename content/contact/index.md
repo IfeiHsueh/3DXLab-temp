@@ -13,16 +13,16 @@ sections:
       email: 3dxlab@gmail.com
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Lushan south road
+        city: Changsha
+        region: Hunan
+        postcode: '410082'
+        country: P.R. China
+        country_code: CN
       coordinates:
         latitude: '28.17531'
         longitude: '112.94594'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+      directions: Lushan gate
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
