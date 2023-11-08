@@ -34,7 +34,8 @@ abstract: This paper addresses the problem of rolling shutter correction (RSC) i
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Source Themes
+  - SLAM
+  - Rolling Shutter
 featured: false
 
 # links:
