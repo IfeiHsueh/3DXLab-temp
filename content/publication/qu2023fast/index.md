@@ -1,6 +1,7 @@
 ---
 title: 'Fast Rolling Shutter Correction in the Wild. IEEE Transactions on Pattern Analysis and Machine Intelligence '
 authors:
+  - dl.qu
   - yf.xue
   - Robert Ford
 author_notes:
