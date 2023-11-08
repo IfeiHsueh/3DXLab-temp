@@ -1,6 +1,6 @@
 ---
-title: Tour
-date: 2022-10-24
+title: Introduce
+date: 2023-11-08
 
 type: landing
 
@@ -8,7 +8,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
+      - title: 👋 Welcome to the 3DXLab group
         content: Take a look at what we're working on...
         align: center
         background:
