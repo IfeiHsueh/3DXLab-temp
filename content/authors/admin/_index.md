@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 3DXLab Group
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: 3DXLab
+last_name: HNU
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 3D Vision/graphic/Visualization/Experience/Design
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Hunan University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
