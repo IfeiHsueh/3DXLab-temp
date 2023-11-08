@@ -2,8 +2,10 @@
 title: 'Fast Rolling Shutter Correction in the Wild'
 authors:
   - dl.qu
-  - yf.xue
-  - Robert Ford
+  - by.liao
+  - hq.zhang
+  - Omar Ait-Aider
+  - yz.lao
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
