@@ -53,7 +53,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Image credit: [**3DXLab**](https://3dxlab.netlify.app/)'
   focal_point: ''
   preview_only: false
 
