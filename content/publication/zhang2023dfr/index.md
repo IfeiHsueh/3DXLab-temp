@@ -1,10 +1,10 @@
 ---
-title: 'Fast Rolling Shutter Correction in the Wild'
+title: 'DFR: Depth from Rotation by Uncalibrated Image Rectification with Latitudinal Motion Assumption'
 authors:
-  - dl.qu
-  - by.liao
+  - yc.zhang
+  - yf.xue
+  - Ming Liao
   - hq.zhang
-  - Omar Ait-Aider
   - yz.lao
 author_notes:
   - 'Equal contribution'
