@@ -7,7 +7,7 @@ first_name: huiqing
 last_name: zhang
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Grad Students
