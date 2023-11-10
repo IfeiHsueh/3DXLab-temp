@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: people
+  - block: members
     content:
       title: Meet the Team
       # Choose which groups/teams of users to display.
@@ -14,11 +14,12 @@ sections:
           - Principal Investigators
           - Researchers
           - Grad Students
+          - Undergrad Students
           - Administration
           - Visitors
           - Alumni
       sort_by: Params.last_name
-      sort_ascending: true
+      sort_ascending: false
     design:
       show_interests: false
       show_role: true
