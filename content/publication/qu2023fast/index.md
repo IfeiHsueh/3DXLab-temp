@@ -3,17 +3,15 @@ title: 'Fast Rolling Shutter Correction in the Wild'
 authors:
   - dl.qu
   - by.liao
-  - hq.zhang
+  - mr.pei
   - Omar Ait-Aider
   - yz.lao
-  - mr.pei
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
   -
   -
   - 'Corresponding'
-  - 
 date: '2023-06-12T00:00:00Z'
 doi: ''
 
