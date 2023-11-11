@@ -3,7 +3,7 @@ title: 'Fast Rolling Shutter Correction in the Wild'
 authors:
   - dl.qu
   - by.liao
-  - mr.pei
+  - yf.xue
   - Omar Ait-Aider
   - yz.lao
 author_notes:
