@@ -10,7 +10,7 @@ last_name: pei
 superuser: false
 
 # Role/position
-role: Grad Students
+role: Undergrad Students
 
 # Organizations/Affiliations
 organizations:
